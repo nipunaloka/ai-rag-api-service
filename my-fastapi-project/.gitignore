@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+env/
+.venv
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Vector Store
+.chroma/
+chroma_data/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
